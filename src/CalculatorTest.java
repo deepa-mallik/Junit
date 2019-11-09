@@ -3,8 +3,8 @@ import org.junit.Test;
 public class CalculatorTest 
 {
 	Calculator cal=new Calculator();
+	
 	@Test  //Used to identify that a method is a test method
-
 	public void testSquares()
 	{
 		
